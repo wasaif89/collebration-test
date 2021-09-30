@@ -12,4 +12,6 @@ var githubUsername = "azfay3"
 
 var myname = "nada"
 
+var name = "was"
+
 
