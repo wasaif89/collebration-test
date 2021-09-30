@@ -11,3 +11,4 @@ var githubUsername = "azfay3"
 // name
 
 var name = "was"
+var newname = "wass"
