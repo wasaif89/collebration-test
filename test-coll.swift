@@ -15,3 +15,7 @@ var myname = "nada"
 var name = "was"
 
 
+// name
+
+var name = "was"
+var newname = "wass"
