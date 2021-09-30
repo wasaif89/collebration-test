@@ -8,3 +8,8 @@
 import Foundation
 
 var githubUsername = "azfay3"
+
+
+var myname = "nada"
+
+
