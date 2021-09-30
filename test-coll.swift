@@ -9,3 +9,5 @@ import Foundation
 
 var githubUsername = "azfay3"
 // name
+
+var name = "was"
